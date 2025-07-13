@@ -7,7 +7,7 @@ async function findMatch() {
   const episodes = await fetch('episodes.json').then(res => res.json());
 
   const [year, month, day] = inputDate.split("-");
-  const dateStr = `${parseInt(month)}-${parseInt(day)}`;
+  const dateStr = `${month}-${day}`;
 
   // Find characters with matching birthday
   const matchedCharacters = characters.filter(c => c.birthday === dateStr);
