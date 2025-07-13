@@ -2,5 +2,12 @@
   { "name": "Monkey D. Luffy", "birthday": "5-5" },
   { "name": "Roronoa Zoro", "birthday": "11-11" },
   { "name": "Nami", "birthday": "7-3" },
-  { "name": "Sanji", "birthday": "3-2" }
+  { "name": "Sanji", "birthday": "3-2" },
+  { "name": "Tony Tony Chopper", "birthday": "12-24" },
+  { "name": "Nico Robin", "birthday": "2-6" },
+  { "name": "Franky", "birthday": "3-9" },
+  { "name": "Brook", "birthday": "4-3" },
+  { "name": "Jinbe", "birthday": "4-2" },
+  { "name": "Portgas D. Ace", "birthday": "1-1" },
+  { "name": "Usopp", "birthday": "4-1" }
 ]

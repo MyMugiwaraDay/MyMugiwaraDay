@@ -1,6 +1,11 @@
 [
-  { "chapter": 1000, "title": "Straw Hat Luffy", "date": "2021-01-04" },
-  { "chapter": 1044, "title": "Warrior of Liberation", "date": "2022-03-28" },
-  { "chapter": 1089, "title": "Hostage Situation", "date": "2023-08-06" },
-  { "chapter": 1100, "title": "Dreams of a Genius", "date": "2023-12-03" }
+  { "chapter": 1100, "title": "Dreams of a Genius", "date": "2023-12-03" },
+  { "chapter": 1101, "title": "The Great Warrior", "date": "2023-12-10" },
+  { "chapter": 1102, "title": "New Journey", "date": "2023-12-17" },
+  { "chapter": 1103, "title": "Secrets Revealed", "date": "2023-12-24" },
+  { "chapter": 1104, "title": "Battle at Dawn", "date": "2023-12-31" },
+  { "chapter": 1105, "title": "Straw Hat Alliance", "date": "2024-01-07" },
+  { "chapter": 1106, "title": "New Threat", "date": "2024-01-14" },
+  { "chapter": 1107, "title": "Alliance Formed", "date": "2024-01-21" },
+  { "chapter": 1108, "title": "Rising Storm", "date": "2024-01-28" }
 ]
